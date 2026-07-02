@@ -16,7 +16,7 @@ st.set_page_config(
 # ---------------------------------------------------------
 # CONFIG — update this with your n8n production webhook URL
 # ---------------------------------------------------------
-N8N_WEBHOOK_URL = "https://mediconnect-care-project-assistant.streamlit.app/"
+N8N_WEBHOOK_URL = "https://among-harbor-borough.ngrok-free.dev/webhook/mediconnect-care"
 REQUEST_TIMEOUT = 60  # seconds
 
 # ---------------------------------------------------------
